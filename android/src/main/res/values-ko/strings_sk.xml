@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">상자는 %1$ds 후에 대기 모드로 전환됩니다. 계속 시청하시려면 아무 버튼이나 눌러주세요.</string>
+	<string name="timeout_standby_dialog_min_sec">상자는 %1$min %2$ds 후에 대기 모드로 전환됩니다. 계속 시청하시려면 아무 버튼이나 눌러주세요.</string>
+</resources>

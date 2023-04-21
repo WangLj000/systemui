@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">El cuadro pasará al modo de espera después de %1$ds. Si desea continuar viendo, presione cualquier botón.</string>
+	<string name="timeout_standby_dialog_min_sec">El cuadro pasará al modo de espera después de %1$dmin %2$ds. Si desea continuar viendo, presione cualquier botón.</string>
+</resources>

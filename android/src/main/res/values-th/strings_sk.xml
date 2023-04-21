@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">กล่องจะเข้าสู่โหมดสแตนด์บายหลังจาก %1$ds หากต้องการดูต่อ โปรดกดปุ่มใดก็ได้</string>
+	<string name="timeout_standby_dialog_min_sec">กล่องจะเข้าสู่โหมดสแตนด์บายหลังจาก %1$dmin %2$ds หากต้องการดูต่อ โปรดกดปุ่มใดก็ได้</string>
+</resources>

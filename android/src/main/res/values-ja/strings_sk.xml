@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">ボックスは％1$ds後にスタンバイモードになります。 引き続き視聴したい場合は、いずれかのボタンを押してください。</string>
+	<string name="timeout_standby_dialog_min_sec">ボックスは、％1 $ dmin％2$dsの後にスタンバイモードになります。 引き続き視聴したい場合は、いずれかのボタンを押してください。</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">سوف ينتقل الصندوق إلى وضع الاستعداد بعد٪ 1 $ ds. إذا كنت ترغب في متابعة المشاهدة ، يرجى الضغط على أي زر.</string>
+	<string name="timeout_standby_dialog_min_sec">سينتقل الصندوق إلى وضع الاستعداد بعد٪ 1 $ dmin٪ 2 $ ds. إذا كنت ترغب في متابعة المشاهدة ، يرجى الضغط على أي زر.</string>
+</resources>

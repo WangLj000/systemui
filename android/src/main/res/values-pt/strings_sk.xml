@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">A caixa irá para o modo de espera após %1$ds. Se você quiser continuar assistindo, por favor, pressione qualquer botão.</string>
+	<string name="timeout_standby_dialog_min_sec">A caixa irá para o modo de espera após %1$dmin %2$ds. Se você quiser continuar assistindo, por favor, pressione qualquer botão.</string>
+</resources>

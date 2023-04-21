@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">La box passera en mode veille après %1$ds. Si vous souhaitez continuer à regarder, veuillez appuyer sur n\'importe quel bouton.</string>
+	<string name="timeout_standby_dialog_min_sec">La box passera en mode veille après %1$dmin %2$ds. Si vous souhaitez continuer à regarder, veuillez appuyer sur n\'importe quel bouton.</string>
+</resources>

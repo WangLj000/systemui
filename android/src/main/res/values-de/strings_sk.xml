@@ -1,0 +1,4 @@
+<resources>
+	<string name="timeout_standby_dialog_sec">Die Box wechselt nach %1$ds in den Standby-Modus. Wenn Sie weiterschauen möchten, drücken Sie bitte eine beliebige Taste.</string>
+	<string name="timeout_standby_dialog_min_sec">Die Box geht nach %1$dmin %2$ds in den Standby-Modus. Wenn Sie weiterschauen möchten, drücken Sie bitte eine beliebige Taste.</string>
+</resources>
